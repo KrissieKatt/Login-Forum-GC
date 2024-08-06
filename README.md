@@ -14,7 +14,6 @@ This repository contains a login forum project that I was assigned to create. Th
 
 - **HTML**: For structuring the forum layout.
 - **CSS**: For styling the forum and making it visually appealing.
-- **JavaScript**: For handling form validation and user interaction.
 
 ## Project Structure
 
